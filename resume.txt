@@ -1,0 +1,86 @@
+SAUMO PAL | 15EC3FP03 e
+
+ 
+
+ELECTRONICS AND ELECTRICAL COM M UNICATION ENGG./ FINANCIAL ENGINEERING vei ay
+EDUCATION
+
+Year Degree/Exam Institute CGPA/M arks
+2020 M .TECH Dual Degree 5Y IIT Kharagpur 8.44 / 10
+
+2015 Central Board of Secondary Education D.A.V. Model School, Durgapur 96.4%
+
+2013 Indian Council of Secondary Education St. Xavier's School, Durgapur 94.2%
+
+INTERNSHIPS AND PROJECTS
+Enhancing application testing with Al The Honeynet Project under Google Summer of Code April, 2018 - Ongoing
+
+¢Responsible for enhancing coverage of Android application testing bot using machine learning and Al techniques
+¢lmplemented natural language processing and deep learning methods along with graph convolutional networks for
+creating embeddings of UI screens of applications
+
+Virtualization of Head Unit Mercedes Benz Research & Development, India May, 2018 - July, 2018
+
+«Responsible for enabling virtualization toolkit in remote target devices which includes NVIDIA Drive CX2 and
+Harman NTG6 to host them on TCP/IP protocol
+«Implemented Yocto based operating system package installer on Linux kernel and added VirtualGL and TurboVNC
+
+Algorithmic Toolkit for Elections AOSSIE under Google Summer of Code April, 2017 - August, 2017
+
+«Responsible for implementing various voting algorithms in Scala and Play framework
+¢M ade it available to everyone In an open sourced manner so that It can be tested by the Government of Australia
+
+COM PETITION/ CONFERENCE
+Special Prize for Technical Innovative Approach Hack.Bangalore, Daimler January, 2018
+
+«Implemented vehicle-to-vehicle communication module for retro-fitting in old vehicles so that all the vehicles on
+road can communicate without the need of internet
+
+¢Responsible for the software stack consisting of the Android application which can communicate with hardware
+module and a Flask based web application for data collection
+
+Finalist Future Datathon, Future Group December, 2017
+
+¢ Ranked 6th all over India in a data analytics competition held by Future Group, the ones behind the offline
+commerce behemoth, Big Bazaar by implementing clustering and recommendation based algorithms to help
+determine the types of customers visiting Big Bazaar and accordingly suggest products to them
+
+National Finalists Hult Prize India Finals January, 2017
+
+¢ldeation and major work was done on ‘Restoring the rights and dignity of 10 million refugees by 2022'
+¢Worked on alleviating the lack of affordable education, in the form of a solar-powered bag with a barebones PC
+
+Category Winners Accenture Innovation Jockeys October, 2016
+¢Deployed a machine learning model on the web, using IBM Bluemix as the platform
+¢Trained the model to learn reported cases of corruption and suggest relevant laws/ actions to end users
+
+SKILLS AND EXPERTISE
+
+Proficient: C, C-+H, Python, R, Ubuntu, Tensorflow, PyTorch, Keras
+Intermediate: SciPy, Scikit-learn, Matlab, MySQL, Android, Yocto
+
+POSITIONS OF RESPONSIBILITY
+Organizing Member TEDx IIT Kharagpur April, 2016 - March, 2017
+«Responsible for organizing the 5th edition of TEDx, an independantly organized TED event at IIT Kharagpur
+Student M ember Technology Transfer Group, IIT Kharagpur April, 2016 - April, 2017
+
+¢Worked for identifying potential patentable invention by collaborating with individuals and professors and helped
+them in the patent filing and commercialization
+
+EXTRA CURRICULAR ACTIVITIES
+
+¢ Captain of Bronze winning team in Technology Quiz, Interhall General Championship 2017-18
+
+¢ Captain of Gold winning team in Product Design, Interhall General Championship 2017-18
+
+¢ Finalist in Debasish Dash M emorial IT Quiz at Bhubaneshwar, 2017
+
+¢ Active Member of Kharagpur Data Analytics Group and The Street, Finance Club of IIT Kharagpur
+
+COURSEWORK INFORM ATION
+
+M ultivariate Calculus, Programming and Data Structures, Introduction to Electronics, Corporate Finance, Signals and
+Systems, Probability and Stochastic Processes, Regression Modelling, Digital Signal Processing, Stochastic Processes
+in Finance*, Digital Image Processing*, Machine Intelligence and Expert Systems*, Information Retrieval*
+
+Please note if any item is marked as '!' the same is not verified by CDC, IIT Kharagpur.
